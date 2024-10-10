@@ -6,7 +6,7 @@
 <details>  
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-meWhat I Offer</a></li>
+    <li><a href="#about-me">What I Offer</a></li>
     <li><a href="#education">Education</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
