@@ -33,7 +33,7 @@ Hi, I'm Klimentina! A passionate Front-End Developer with a love for creating be
 
 <h2 id="education">🎓 Education</h2>
 
-### Code Academy Graduate
+### Academy Graduate
 **Front-End Development at Brainster**  
 *September 2023 - September 2024*
 
