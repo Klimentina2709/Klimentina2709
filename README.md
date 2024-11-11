@@ -2,6 +2,8 @@
   <h1>Klimentina Sokolovska</h1>
 </div>
 
+---
+
 <!-- TABLE OF CONTENTS -->
 <details>  
   <summary>Table of Contents</summary>
