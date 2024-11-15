@@ -162,6 +162,7 @@ University “Goce Delchev” of Stip, North Macedonia
 ---
 
 <h2 id="fun-facts">🎨 Fun Facts</h2>
+
 - I have a background in classical painting and love exploring art in my free time.
 - I am passionate about UX/UI design and fascinated by its impact on user interaction.
 
