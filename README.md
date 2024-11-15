@@ -2,8 +2,6 @@
   <h1>Klimentina Sokolovska</h1>
 </div>
 
----
-
 <!-- TABLE OF CONTENTS -->
 <details>  
   <summary>Table of Contents</summary>
@@ -43,11 +41,18 @@ A Front-End Developer focused on building responsive, user-centered web applicat
 
 <h2 id="projects">🚀 Projects</h2>
 <ul>
+ <li>
+  <strong><a href="https://github.com/Klimentina2709/My-Portfolio">Portfolio</a></strong>: 
+  A responsive personal portfolio showcasing my journey as a front-end developer.
+  <ul>
+    <li><strong>Skills Learned:</strong> Responsive design, state management in React.js, styling with Chakra UI.</li>
+  </ul>
+</li>
+
   <li>
     <strong><a href="https://github.com/Klimentina2709/JavaScript-Projects">Projects With JavaScript</a></strong>: 
     A collection of simple projects demonstrating core HTML, CSS, and JavaScript.
     <ul>
-      <li><strong>Technologies:</strong> HTML, CSS, JavaScript</li>
       <li><strong>Skills Learned:</strong> DOM manipulation, event handling, basic JavaScript functionality</li>
     </ul>
   </li>
@@ -56,17 +61,15 @@ A Front-End Developer focused on building responsive, user-centered web applicat
     <strong><a href="https://github.com/Klimentina2709/Templates">Templates</a></strong>: 
     A set of static templates exploring web structure and responsive layouts.
     <ul>
-      <li><strong>Technologies:</strong> HTML, CSS, Bootstrap</li>
       <li><strong>Skills Learned:</strong> Responsive design, CSS layout techniques, Bootstrap grid system</li>
     </ul>
   </li>
   
   <li>
     <strong><a href="https://github.com/Klimentina2709/BrainsterLabs">Brainster Labs</a></strong>: 
-    Developed a website for Brainster Labs as a part of a collaborative team project.
+    Developed a website for Brainster Labs.
     <ul>
-      <li><strong>Technologies:</strong> HTML, CSS, JavaScript, React</li>
-      <li><strong>Skills Learned:</strong> React components, API integration, team collaboration, UI/UX design</li>
+      <li><strong>Skills Learned:</strong> HTML, CSS/SCSS, Simple JavaScript</li>
     </ul>
   </li>
   
@@ -74,7 +77,6 @@ A Front-End Developer focused on building responsive, user-centered web applicat
     <strong><a href="https://github.com/Klimentina2709/Bikes">Bikes Page</a></strong>: 
     Created two perspectives of a simple bike page: one using vanilla JavaScript and the other with React.
     <ul>
-      <li><strong>Technologies:</strong> JavaScript, React</li>
       <li><strong>Skills Learned:</strong> JavaScript functions, React components, state management</li>
     </ul>
   </li>
@@ -83,7 +85,6 @@ A Front-End Developer focused on building responsive, user-centered web applicat
     <strong><a href="https://github.com/Klimentina2709/Simple-Portfolio-Demo">Simple Portfolio</a></strong>: 
     A basic portfolio website integrating a styling library with simple JavaScript functionality.
     <ul>
-      <li><strong>Technologies:</strong> HTML, CSS, JavaScript, Bootstrap</li>
       <li><strong>Skills Learned:</strong> Portfolio design, integrating styling libraries, responsive design</li>
     </ul>
   </li>
@@ -92,7 +93,6 @@ A Front-End Developer focused on building responsive, user-centered web applicat
     <strong><a href="https://github.com/Klimentina2709/MHRA">MHRA</a></strong>: 
     A website for the Macedonian Human Resources Association, built using Next.js.
     <ul>
-      <li><strong>Technologies:</strong> Next.js, HTML, CSS</li>
       <li><strong>Skills Learned:</strong> Server-side rendering (SSR), building scalable websites, Next.js framework</li>
     </ul>
   </li>
@@ -101,8 +101,7 @@ A Front-End Developer focused on building responsive, user-centered web applicat
     <strong><a href="https://github.com/Klimentina2709/Safeblink">Safeblink</a></strong>: 
     A single-page app (SPA) designed for safe web browsing with dynamic content loading.
     <ul>
-      <li><strong>Technologies:</strong> JavaScript, HTML, CSS</li>
-      <li><strong>Skills Learned:</strong> SPA architecture, dynamic content loading, user authentication</li>
+      <li><strong>Skills Learned:</strong> SPA architecture, dynamic content loading, user authentication, Local Storage</li>
     </ul>
   </li>
   
@@ -110,8 +109,7 @@ A Front-End Developer focused on building responsive, user-centered web applicat
     <strong><a href="https://github.com/Klimentina2709/larger-world">larger.world Hackathon</a></strong>: 
     Worked with a team to create a platform for a client during a hackathon event.
     <ul>
-      <li><strong>Technologies:</strong> React, Node.js, Express</li>
-      <li><strong>Skills Learned:</strong> Team collaboration, full-stack development, working under time pressure</li>
+      <li><strong>Skills Learned:</strong> Team collaboration, working under time pressure, React components</li>
     </ul>
   </li>
   
@@ -119,16 +117,14 @@ A Front-End Developer focused on building responsive, user-centered web applicat
     <strong><a href="https://github.com/Klimentina2709/React-Mobile-App">React Mobile App</a></strong>: 
     A mobile app built with React to learn mobile routing and navigation.
     <ul>
-      <li><strong>Technologies:</strong> React, React Router, Mobile Design</li>
-      <li><strong>Skills Learned:</strong> React Native, routing in mobile apps, mobile-first design</li>
+      <li><strong>Skills Learned:</strong> Routing in mobile apps , React components</li>
     </ul>
   </li>
   
   <li>
     <strong><a href="https://github.com/Klimentina2709/Material-UI-App">Material UI App</a></strong>: 
-    A user-friendly app that allows users to search for dog breeds and view related images, built with Material UI components.
+    A user-friendly app that allows users to search for cat breeds and view related images, built with Material UI components.
     <ul>
-      <li><strong>Technologies:</strong> React, Material UI, Axios</li>
       <li><strong>Skills Learned:</strong> UI components, API integration, Material UI, responsive design</li>
     </ul>
   </li>
@@ -137,8 +133,7 @@ A Front-End Developer focused on building responsive, user-centered web applicat
     <strong><a href="https://github.com/Klimentina2709/To-Do-App">To Do Apps</a></strong>: 
     Two different versions of a to-do list application built using different approaches and technologies.
     <ul>
-      <li><strong>Technologies:</strong> JavaScript, React</li>
-      <li><strong>Skills Learned:</strong> To-do list functionality, React state management, local storage integration</li>
+      <li><strong>Skills Learned:</strong> To-do list functionality, React state management, JavaScript functionality</li>
     </ul>
   </li>
 </ul>
@@ -147,7 +142,7 @@ A Front-End Developer focused on building responsive, user-centered web applicat
 
 <h2 id="education">🎓 Education</h2>
 
-### Academy Graduate
+### Brainster - Academy Graduate
 **Front-End Development at Brainster**  
 *September 2023 - September 2024*
 
@@ -168,7 +163,7 @@ University “Goce Delchev” of Stip, North Macedonia
 
 <h2 id="fun-facts">🎨 Fun Facts</h2>
 - I have a background in classical painting and love exploring art in my free time.
-- Passionate about UX/UI design and how it shapes user interaction.
+- I am passionate about UX/UI design and fascinated by its impact on user interaction.
 
 ---
 
