@@ -18,7 +18,7 @@
 
 <h2 id="about-me">🙋‍♀️ About Me</h2>
 
-A Front-End Developer focused on building responsive, user-centered web applications. A recent graduate of Brainster’s Front-End Academy, I’m skilled in HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS, with experience in seamless API integrations and mobile-first development. Adept at applying UX/UI principles to create clean, intuitive interfaces, I’m passionate about continuous learning and contributing to projects that deliver optimized performance and seamless user experiences.
+A Front-End Developer focused on building responsive, user-centered web applications. A recent graduate of Brainster’s Front-End Academy, I’m skilled in HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS, with experience in seamless API integrations and mobile-first development. Since graduating, I have continued to expand my skill set into back-end development, focusing on PHP and MySQL, while exploring GraphQL to build a comprehensive full-stack skill set. Adept at applying UX/UI principles to create clean, intuitive interfaces, I’m passionate about continuous learning and contributing to projects that deliver optimized performance and seamless user experiences.
 
 👉🏻 **Front-End Development**: Building responsive, user-friendly websites with technologies like:
 
@@ -36,11 +36,21 @@ A Front-End Developer focused on building responsive, user-centered web applicat
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
 <h2 id="projects">🚀 Projects</h2>
 <ul>
+ <li>
+  <strong><a href="https://github.com/Klimentina2709/Back-End-Development">Portfolio</a></strong>: 
+  Repository for back end code
+  <ul>
+    <li><strong>Skills Learned:</strong>PHP</li>
+  </ul>
+</li>
+  
  <li>
   <strong><a href="https://github.com/Klimentina2709/My-Portfolio">Portfolio</a></strong>: 
   A responsive personal portfolio showcasing my journey as a front-end developer.
