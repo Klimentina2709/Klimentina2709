@@ -44,10 +44,10 @@ A Front-End Developer focused on building responsive, user-centered web applicat
 <h2 id="projects">🚀 Projects</h2>
 <ul>
  <li>
-  <strong><a href="https://github.com/Klimentina2709/Back-End-Development">Portfolio</a></strong>: 
+  <strong><a href="https://github.com/Klimentina2709/Back-End-Development">Back End</a></strong>: 
   Repository for back end code
   <ul>
-    <li><strong>Skills Learned:</strong>PHP</li>
+    <li><strong>Skills Learned:</strong> PHP</li>
   </ul>
 </li>
   
