@@ -51,7 +51,7 @@ A Front-End Developer focused on building responsive, user-centered web applicat
 </li>
 
 <li>
-    <strong><a href="https://github.com/Klimentina2709/JNetflix-Clone">Project With Firebase</a></strong>: 
+    <strong><a href="https://github.com/Klimentina2709/Netflix-Clone">Project With Firebase</a></strong>: 
     Fullstuck application. 
     <ul>
       <li><strong>Skills Learned:</strong> Authentication, Firebase Hosting, APIs</li>
